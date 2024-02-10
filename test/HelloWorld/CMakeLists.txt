@@ -1,0 +1,1 @@
+add_unittest(HelloWorldTests HelloWorldTest.cpp)
